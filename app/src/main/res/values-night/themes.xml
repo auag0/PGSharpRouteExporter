@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Base.Theme.MyApp" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>

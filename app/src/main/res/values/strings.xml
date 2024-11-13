@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">PGSharp Route Exporter</string>
+    <string name="version_format" translatable="false">%1$s&lt;small>(%2$d)&lt;/small></string>
+    <string name="dialog_title_required_root">Root Access Required</string>
+    <string name="dialog_message_required_root">Please grant root access to use this app.</string>
+    <string name="dialog_button_exit">Exit</string>
+    <string name="not_installed">Not installed.</string>
+    <string name="tooltip_save_as_gpx">save as gpx</string>
+    <string name="toast_empty_routes">You have no favorited routes!</string>
+    <string name="toast_not_installed">Pokemon GO is not installed!</string>
+    <string name="toast_saved_as_gpx">Saved as gpx!</string>
+</resources>

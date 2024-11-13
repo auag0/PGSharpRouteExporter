@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dialog_title_required_root">ルート権限が必須です</string>
+    <string name="dialog_message_required_root">このアプリを使用するにはルート権限を付与してください。</string>
+    <string name="dialog_button_exit">閉じる</string>
+    <string name="not_installed">インストールされていません</string>
+    <string name="tooltip_save_as_gpx">gpxで保存</string>
+    <string name="toast_empty_routes">お気に入りのルートがありません</string>
+    <string name="toast_not_installed">ポケモンGOがインストールされていません</string>
+    <string name="toast_saved_as_gpx">gpxで保存されました！</string>
+</resources>
