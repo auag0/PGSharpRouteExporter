@@ -1,1 +1,7 @@
-![s1](https://github.com/auag0/PGSharp-Helper/assets/48195751/5cca3786-deb3-472c-8e4a-449b877c8b08)
+# PGSharp Route Exporter
+
+This app saves your favorite routes in GPX format from PGSharp
+
+## Preview
+
+![preview](preview/preview.gif)
